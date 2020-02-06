@@ -44,4 +44,3 @@
             </div>
     </nav>	
     <main class="container">
-</html>
