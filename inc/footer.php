@@ -1,7 +1,7 @@
 </main> <!-- /container -->	
 <hr>
 <footer class="container">
-	<p>&copy;2016 - Web Dev Academy</p>
+	<p>&copy;2020- Everton Vitor</p>
 </footer>	
 <script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js"></script>
 <script>window.jQuery || document.write('<script src="<?php echo BASEURL; ?>js/jquery-1.11.2.min.js"><\/script>')</script>	
